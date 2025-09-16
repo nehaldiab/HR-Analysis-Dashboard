@@ -79,4 +79,5 @@ Based on the insights derived from the HR Analysis Dashboard, here are actionabl
 
 📧 Email: [nehaldiab717@gmail.com](mailto:nehaldiab717@gmail.com)  
 🔗 LinkedIn: [www.linkedin.com/in/nehal-diab-810b82209](https://www.linkedin.com/in/nehal-diab-810b82209)  
+📊 NovyPro: View Project
 
